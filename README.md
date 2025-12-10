@@ -1,6 +1,3 @@
-Here's a complete GitHub README.md for your project:
-
-```markdown
 # 🔥 Activity Logger - Real-Time Keystroke Monitoring System
 
 A Python-based desktop activity monitoring system that captures keyboard input and sends logs to a local server with a **hacker-themed real-time dashboard**.
