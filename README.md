@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Jeevan Gowda** - [@yourtwitter](https://twitter.com/yourtwitter)
+**Jeevan Gowda** - [@jeevan-m-4193b4362](https://linkedin.com/in/jeevan-m-4193b4362)
 
 Project Link: [https://github.com/jjgowda/activity-logger](https://github.com/jjgowda/activity-logger)
 
@@ -254,15 +254,3 @@ Project Link: [https://github.com/jjgowda/activity-logger](https://github.com/jj
 ⭐ **Star this repo if you find it useful!** ⭐
 
 Made with 💚 by [Jeevan Gowda]
-```
-
-## Create requirements.txt file:
-
-```txt
-flask==3.0.0
-requests==2.31.0
-keyboard==0.13.5
-pynput==1.7.6
-pyinstaller==6.3.0
-```
-
