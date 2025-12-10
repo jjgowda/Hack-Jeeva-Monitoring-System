@@ -1,4 +1,4 @@
-# 🔥 Activity Logger - Real-Time Keystroke Monitoring System
+# 🔥 Hack Jeeva - Real-Time Keystroke Monitoring System
 
 A Python-based desktop activity monitoring system that captures keyboard input and sends logs to a local server with a **hacker-themed real-time dashboard**.
 
@@ -87,7 +87,7 @@ Open your web browser and navigate to:
 http://localhost:8000
 ```
 
-### Step 3: Start Activity Logger
+### Step 3: Start Hack Jeeva
 
 **On Windows:**
 
